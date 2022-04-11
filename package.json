@@ -13,7 +13,7 @@
     "@splatterxl/tsconfig": "1.1.1",
     "@types/node": "16.11.26",
     "@typescript-eslint/eslint-plugin": "5.18.0",
-    "@typescript-eslint/parser": "5.18.0",
+    "@typescript-eslint/parser": "5.19.0",
     "eslint": "8.13.0",
     "prettier": "2.6.2",
     "typescript": "4.6.3"
