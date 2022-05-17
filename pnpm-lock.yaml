@@ -2,7 +2,7 @@ lockfileVersion: 5.4
 
 specifiers:
   '@splatterxl/tsconfig': 1.1.1
-  '@types/node': 16.11.35
+  '@types/node': 16.11.36
   '@typescript-eslint/eslint-plugin': 5.24.0
   '@typescript-eslint/parser': 5.24.0
   eslint: 8.15.0
@@ -11,7 +11,7 @@ specifiers:
 
 devDependencies:
   '@splatterxl/tsconfig': 1.1.1
-  '@types/node': 16.11.35
+  '@types/node': 16.11.36
   '@typescript-eslint/eslint-plugin': 5.24.0_w4ec7awddsetq6k5phhi6huiuu
   '@typescript-eslint/parser': 5.24.0_hcfsmds2fshutdssjqluwm76uu
   eslint: 8.15.0
@@ -82,8 +82,8 @@ packages:
     resolution: {integrity: sha512-qcUXuemtEu+E5wZSJHNxUXeCZhAfXKQ41D+duX+VYPde7xyEVZci+/oXKJL13tnRs9lR2pr4fod59GT6/X1/yQ==}
     dev: true
 
-  /@types/node/16.11.35:
-    resolution: {integrity: sha512-QXu45LyepgnhUfnIAj/FyT4uM87ug5KpIrgXfQtUPNAlx8w5hmd8z8emqCLNvG11QkpRSCG9Qg2buMxvqfjfsQ==}
+  /@types/node/16.11.36:
+    resolution: {integrity: sha512-FR5QJe+TaoZ2GsMHkjuwoNabr+UrJNRr2HNOo+r/7vhcuntM6Ee/pRPOnRhhL2XE9OOvX9VLEq+BcXl3VjNoWA==}
     dev: true
 
   /@typescript-eslint/eslint-plugin/5.24.0_w4ec7awddsetq6k5phhi6huiuu:
