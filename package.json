@@ -11,7 +11,7 @@
   "license": "AGPL-3.0-or-later",
   "devDependencies": {
     "@splatterxl/tsconfig": "1.1.1",
-    "@types/node": "16.11.36",
+    "@types/node": "16.18.23",
     "@typescript-eslint/eslint-plugin": "5.26.0",
     "@typescript-eslint/parser": "5.26.0",
     "eslint": "8.16.0",
